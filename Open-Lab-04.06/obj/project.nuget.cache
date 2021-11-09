@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oskQD1WE2HT+B4PxQ309XnQU+37Sv8/PhNrHEnIcNZnZI+TcqIdFETaOZOeY+K9CQleKedFdzz68LIEWoQhvpQ==",
+  "dgSpecHash": "kUGoSnxptHYpVBp9ts4qxmrKfu/UadNPVEX6fgNhOBpYO9ZbdWKaUqa3gnBp6dOTIEcEvXOa1WMa0I8/w9J+Og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\onkom\\source\\repos\\46\\Open-Lab-04.06\\Open-Lab-04.06.csproj",
+  "projectFilePath": "C:\\Users\\onkom\\source\\repos\\test\\46\\Open-Lab-04.06\\Open-Lab-04.06.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\onkom\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\onkom\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
