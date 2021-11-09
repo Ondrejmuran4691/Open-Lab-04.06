@@ -14,7 +14,7 @@ namespace Open_Lab_04._06
         private bool shouldStop;
 
         private const int RandNumsMinSize = 2;
-        private const int RandNumsMaxSize = 20;
+        private const int RandNumsMaxSize = 10;
 
         private const int RandSeed = 406406406;
         private const int RandTestCasesCount = 97;
